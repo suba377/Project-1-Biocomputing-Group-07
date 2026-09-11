@@ -1,0 +1,474 @@
+LOCUS       NM_002046               1285 bp    mRNA    linear   PRI 28-APR-2025
+DEFINITION  Homo sapiens glyceraldehyde-3-phosphate dehydrogenase (GAPDH),
+            transcript variant 1, mRNA.
+ACCESSION   NM_002046
+VERSION     NM_002046.7
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1285)
+  AUTHORS   Jeon,H.Y., Lee,A.J., Moon,C.H. and Ha,K.S.
+  TITLE     Regulation of AMPK and GAPDH by Transglutaminase 2 Plays a Pivotal
+            Role in Microvascular Leakage in Diabetic Retinas
+  JOURNAL   Diabetes 73 (10), 1756-1766 (2024)
+   PUBMED   39024127
+  REMARK    GeneRIF: Regulation of AMPK and GAPDH by Transglutaminase 2 Plays a
+            Pivotal Role in Microvascular Leakage in Diabetic Retinas.
+REFERENCE   2  (bases 1 to 1285)
+  AUTHORS   Sun,X., Ye,G., Li,J., Yuan,L., Bai,G., Xu,Y.J. and Zhang,J.
+  TITLE     The tumor suppressor Parkin exerts anticancer effects through
+            regulating mitochondrial GAPDH activity
+  JOURNAL   Oncogene 43 (44), 3215-3226 (2024)
+   PUBMED   39285229
+  REMARK    GeneRIF: The tumor suppressor Parkin exerts anticancer effects
+            through regulating mitochondrial GAPDH activity.
+REFERENCE   3  (bases 1 to 1285)
+  AUTHORS   Zhang,X., Li,H., Tang,L., Zhu,B., Yang,W., Li,M. and Zhao,Y.
+  TITLE     Photobiomodulation therapy enhances neural differentiation of
+            dental pulp stem cells via ERK1/2 signaling pathway
+  JOURNAL   Photochem Photobiol 100 (3), 646-655 (2024)
+   PUBMED   37815161
+REFERENCE   4  (bases 1 to 1285)
+  AUTHORS   Dilawari,R., Chaubey,G.K., Modanwal,R., Dhiman,A., Talukdar,S.,
+            Kumar,A., Raje,C.I. and Raje,M.
+  TITLE     Glyceraldehyde-3-Phosphate Dehydrogenase Binds with Spike Protein
+            and Inhibits the Entry of SARS-CoV-2 into Host Cells
+  JOURNAL   J Innate Immun 16 (1), 133-142 (2024)
+   PUBMED   38325356
+  REMARK    GeneRIF: Glyceraldehyde-3-Phosphate Dehydrogenase Binds with Spike
+            Protein and Inhibits the Entry of SARS-CoV-2 into Host Cells.
+REFERENCE   5  (bases 1 to 1285)
+  AUTHORS   Wagener,J., Schneider,J.J., Baxmann,S., Kalbacher,H., Borelli,C.,
+            Nuding,S., Kuchler,R., Wehkamp,J., Kaeser,M.D.,
+            Mailander-Sanchez,D., Braunsdorf,C., Hube,B., Schild,L.,
+            Forssmann,W.G., Korting,H.C., Liepke,C. and Schaller,M.
+  TITLE     A peptide derived from the highly conserved protein GAPDH is
+            involved in tissue protection by different antifungal strategies
+            and epithelial immunomodulation
+  JOURNAL   J Invest Dermatol 133 (1), 144-153 (2013)
+   PUBMED   22832495
+  REMARK    GeneRIF: The protein encoded by this gene contains a peptide that
+            displays antimicrobial activity against E. coli, P. aeruginosa, and
+            C. albicans.
+REFERENCE   6  (bases 1 to 1285)
+  AUTHORS   Tristan,C., Shahani,N., Sedlak,T.W. and Sawa,A.
+  TITLE     The diverse functions of GAPDH: views from different subcellular
+            compartments
+  JOURNAL   Cell Signal 23 (2), 317-323 (2011)
+   PUBMED   20727968
+  REMARK    GeneRIF: GAPDH is a moonlighting protein that functions as a
+            glycolytic enzyme as well as a uracil DNA glycosylase.
+            Review article
+REFERENCE   7  (bases 1 to 1285)
+  AUTHORS   Serville,F., Junien,C., Kaplan,J.C., Gachet,M., Cadoux,J. and
+            Broustet,A.
+  TITLE     Gene dosage effect for human triosephosphate isomerase and
+            glyceraldehyde-3-phosphate dehydrogenase in partial trisomy 12p13
+            and trisomy 18p
+  JOURNAL   Hum Genet 45 (1), 63-69 (1978)
+   PUBMED   730182
+REFERENCE   8  (bases 1 to 1285)
+  AUTHORS   Edwards,Y.H., Clark,P. and Harris,H.
+  TITLE     Isozymes of glyceraldehyde-3-phosphate dehydrogenase in man and
+            other mammals
+  JOURNAL   Ann Hum Genet 40 (1), 67-77 (1976)
+   PUBMED   183598
+REFERENCE   9  (bases 1 to 1285)
+  AUTHORS   Mercer,W.D., Winn,S.I. and Watson,H.C.
+  TITLE     Twinning in crystals of human skeletal muscle
+            D-glyceraldehyde-3-phosphate dehydrogenase
+  JOURNAL   J Mol Biol 104 (1), 277-283 (1976)
+   PUBMED   957435
+REFERENCE   10 (bases 1 to 1285)
+  AUTHORS   Bruns,G.A. and Gerald,P.S.
+  TITLE     Human glyceraldehyde-3-phosphate dehydrogenase in man-rodent
+            somatic cell hybrids
+  JOURNAL   Science 192 (4234), 54-56 (1976)
+   PUBMED   176725
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Francesco Amaldi. The reference sequence was
+            derived from AK308198.1 and BC009081.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_002046.6.
+            
+            Summary: This gene encodes a member of the
+            glyceraldehyde-3-phosphate dehydrogenase protein family. The
+            encoded protein has been identified as a moonlighting protein based
+            on its ability to perform mechanistically distinct functions. The
+            product of this gene catalyzes an important energy-yielding step in
+            carbohydrate metabolism, the reversible oxidative phosphorylation
+            of glyceraldehyde-3-phosphate in the presence of inorganic
+            phosphate and nicotinamide adenine dinucleotide (NAD). The encoded
+            protein has additionally been identified to have uracil DNA
+            glycosylase activity in the nucleus. Also, this protein contains a
+            peptide that has antimicrobial activity against E. coli, P.
+            aeruginosa, and C. albicans. Studies of a similar protein in mouse
+            have assigned a variety of additional functions including
+            nitrosylation of nuclear proteins, the regulation of mRNA
+            stability, and acting as a transferrin receptor on the cell surface
+            of macrophage. Many pseudogenes similar to this locus are present
+            in the human genome. Alternative splicing results in multiple
+            transcript variants. [provided by RefSeq, Nov 2014].
+            
+            Transcript Variant: This variant (1) encodes the longest isoform
+            (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR5189661.97809.1,
+                                           SRR3476690.1051075.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match                 :: ENST00000229239.10/
+                                                  ENSP00000229239.5
+            multifunctional gene product(s)    :: PMID: 20727968
+            Protein has antimicrobial activity :: PMID: 22832495
+            RefSeq Select criteria             :: based on manual assertion,
+                                                  conservation, expression,
+                                                  longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-15                AK308198.1         1-15
+            16-1285             BC009081.1         1-1270
+FEATURES             Location/Qualifiers
+     source          1..1285
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12p13.31"
+     gene            1..1285
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="glyceraldehyde-3-phosphate dehydrogenase"
+                     /db_xref="GeneID:2597"
+                     /db_xref="HGNC:HGNC:4141"
+                     /db_xref="MIM:138400"
+     exon            1..53
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            54..105
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             77..1084
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /EC_number="1.2.1.12"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     aging-associated gene 9 protein; OCAS, p38 component;
+                     peptidyl-cysteine S-nitrosylase GAPDH; epididymis
+                     secretory sperm binding protein Li 162eP; Oct1 coactivator
+                     in S phase, 38 Kd component"
+                     /codon_start=1
+                     /product="glyceraldehyde-3-phosphate dehydrogenase isoform
+                     1"
+                     /protein_id="NP_002037.2"
+                     /db_xref="CCDS:CCDS8549.1"
+                     /db_xref="GeneID:2597"
+                     /db_xref="HGNC:HGNC:4141"
+                     /db_xref="MIM:138400"
+                     /translation="MGKVKVGVNGFGRIGRLVTRAAFNSGKVDIVAINDPFIDLNYMV
+                     YMFQYDSTHGKFHGTVKAENGKLVINGNPITIFQERDPSKIKWGDAGAEYVVESTGVF
+                     TTMEKAGAHLQGGAKRVIISAPSADAPMFVMGVNHEKYDNSLKIISNASCTTNCLAPL
+                     AKVIHDNFGIVEGLMTTVHAITATQKTVDGPSGKLWRDGRGALQNIIPASTGAAKAVG
+                     KVIPELNGKLTGMAFRVPTANVSVVDLTCRLEKPAKYDDIKKVVKQASEGPLKGILGY
+                     TEHQVVSSDFNSDTHSSTFDAGAGIALNDHFVKLISWYDNEFGYSNRVVDLMAHMASK
+                     E"
+     misc_feature    80..520
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04406.3);
+                     Region: Interaction with WARS1.
+                     /evidence=ECO:0000269|PubMed:15628863"
+     mat_peptide     80..172
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /product="hGAPDH (2-32)"
+                     /experiment="DESCRIPTION:antimicrobial
+                     peptide[PMID:22832495]"
+     misc_feature    89..91
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    200..202
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0007744|PubMed:15592455; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    257..259
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); acetylation site"
+     misc_feature    272..274
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    299..301
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000269|PubMed:18183946,
+                     ECO:0007744|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    323..325
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:18669648, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P04406.3);
+                     phosphorylation site"
+     misc_feature    440..442
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    518..520
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    527..529
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    533..535
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    605..607
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    611..613
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Activates thiol group during catalysis.
+                     /evidence=ECO:0000305|PubMed:16239728,
+                     ECO:0000305|PubMed:16510976; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); other site"
+     misc_feature    620..622
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    626..628
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:19690332, ECO:0007744|PubMed:20068231,
+                     ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    656..658
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    656..658
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); acetylation site"
+     misc_feature    665..667
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="(Microbial infection) N-beta-linked (GlcNAc)
+                     arginine. /evidence=ECO:0000269|PubMed:28522607;
+                     propagated from UniProtKB/Swiss-Prot (P04406.3);
+                     glycosylation site"
+     misc_feature    674..676
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="(Microbial infection) N-beta-linked (GlcNAc)
+                     arginine. /evidence=ECO:0000269|PubMed:28522607;
+                     propagated from UniProtKB/Swiss-Prot (P04406.3);
+                     glycosylation site"
+     misc_feature    707..709
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    719..721
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    731..733
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); acetylation site"
+     misc_feature    755..757
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    755..757
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); acetylation site"
+     misc_feature    761..763
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000269|PubMed:18183946,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    785..787
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    797..799
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    809..826
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="propagated from UniProtKB/Swiss-Prot (P04406.3);
+                     Region: [IL]-x-C-x-x-[DE] motif.
+                     /evidence=ECO:0000305|PubMed:25417112"
+     misc_feature    836..838
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); acetylation site"
+     misc_feature    854..856
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    863..865
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     misc_feature    1010..1012
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:18183946,
+                     ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    1073..1075
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); phosphorylation site"
+     misc_feature    1076..1078
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="N6,N6-dimethyllysine.
+                     /evidence=ECO:0000269|PubMed:18183946; propagated from
+                     UniProtKB/Swiss-Prot (P04406.3); methylation site"
+     exon            106..205
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            206..312
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            313..403
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            404..519
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            520..601
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            602..1014
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1015..1285
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1262..1267
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="hexamer: AATAAA"
+     polyA_site      1285
+                     /gene="GAPDH"
+                     /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+                     /note="major polyA site"
+ORIGIN      
+        1 gctctctgct cctcctgttc gacagtcagc cgcatcttct tttgcgtcgc cagccgagcc
+       61 acatcgctca gacaccatgg ggaaggtgaa ggtcggagtc aacggatttg gtcgtattgg
+      121 gcgcctggtc accagggctg cttttaactc tggtaaagtg gatattgttg ccatcaatga
+      181 ccccttcatt gacctcaact acatggttta catgttccaa tatgattcca cccatggcaa
+      241 attccatggc accgtcaagg ctgagaacgg gaagcttgtc atcaatggaa atcccatcac
+      301 catcttccag gagcgagatc cctccaaaat caagtggggc gatgctggcg ctgagtacgt
+      361 cgtggagtcc actggcgtct tcaccaccat ggagaaggct ggggctcatt tgcagggggg
+      421 agccaaaagg gtcatcatct ctgccccctc tgctgatgcc cccatgttcg tcatgggtgt
+      481 gaaccatgag aagtatgaca acagcctcaa gatcatcagc aatgcctcct gcaccaccaa
+      541 ctgcttagca cccctggcca aggtcatcca tgacaacttt ggtatcgtgg aaggactcat
+      601 gaccacagtc catgccatca ctgccaccca gaagactgtg gatggcccct ccgggaaact
+      661 gtggcgtgat ggccgcgggg ctctccagaa catcatccct gcctctactg gcgctgccaa
+      721 ggctgtgggc aaggtcatcc ctgagctgaa cgggaagctc actggcatgg ccttccgtgt
+      781 ccccactgcc aacgtgtcag tggtggacct gacctgccgt ctagaaaaac ctgccaaata
+      841 tgatgacatc aagaaggtgg tgaagcaggc gtcggagggc cccctcaagg gcatcctggg
+      901 ctacactgag caccaggtgg tctcctctga cttcaacagc gacacccact cctccacctt
+      961 tgacgctggg gctggcattg ccctcaacga ccactttgtc aagctcattt cctggtatga
+     1021 caacgaattt ggctacagca acagggtggt ggacctcatg gcccacatgg cctccaagga
+     1081 gtaagacccc tggaccacca gccccagcaa gagcacaaga ggaagagaga gaccctcact
+     1141 gctggggagt ccctgccaca ctcagtcccc caccacactg aatctcccct cctcacagtt
+     1201 gccatgtaga ccccttgaag aggggagggg cctagggagc cgcaccttgt catgtaccat
+     1261 caataaagta ccctgtgctc aacca
+//
+
