@@ -1,2 +1,1 @@
-data/NM_002046.7.fasta:>NM_002046.7 Homo sapiens glyceraldehyde-3-phosphate dehydrogenase (GAPDH), transcript variant 1, mRNA
-data/NP_002037.2.fasta:>NP_002037.2 glyceraldehyde-3-phosphate dehydrogenase isoform 1 [Homo sapiens]
+>NP_003000.1 selenoprotein W [Homo sapiens]
