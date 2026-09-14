@@ -1,0 +1,11 @@
+with open("results/translated_protein.txt") as f:
+    translated = f.read().strip()
+
+with open("results/deposited_protein.txt") as f:
+    deposited = f.read().strip()
+
+if translated == deposited:
+    print("Sequences are identical")
+else:
+    print("Sequences are different")
+
